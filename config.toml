@@ -1,0 +1,14 @@
+#Hugo configuration
+title = "wqedf"
+baseURL = "https:\/\/ersdcf.dsf.ere"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+galleryChannelIds = ""
+
+[params]
+loginId = "1758823"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "dsf.ere"
