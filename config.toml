@@ -11,4 +11,143 @@ galleryChannelIds = "83052333,85595609,85601876"
 loginId = "1758166"
 subfolder = ""
 
+#COOKING
+[menu]
+[[menu.main]]
+name = "Cooking"
+weight = -10
+identifier = "6410335"
+url = "/c/cooking/6410335"
 
+[[menu.main]]
+name = "Featured"
+identifier = "featured_a"
+weight = -11
+url = "c/cooking/6410335"
+parent = "6410335"
+
+[[menu.main]]
+name = "Recipes"
+identifier = "recipes"
+weight = -12
+url = "c/cooking/6410335"
+parent = "6410335"
+
+[[menu.main]]
+name = "Timesavers"
+identifier = "timesavers"
+weight = -13
+url = "c/cooking/6410335"
+parent = "6410335"
+
+[[menu.main]]
+name = "Cookware"
+identifier = "cookware"
+weight = -14
+url = "c/cooking/6410335"
+parent = "6410335"
+
+#HOME
+[[menu.main]]
+name = "Home"
+weight = -20
+identifier = "6410336"
+url = "/c/home/6410336"
+
+[[menu.main]]
+name = "Featured"
+weight = -21
+parent = "6410336"
+identifier = "featured_b"
+url = "c/home/6410336"
+
+[[menu.main]]
+name = "Living Room"
+weight = -22
+parent = "6410336"
+identifier = "living_room"
+url = "c/home/6410336"
+
+[[menu.main]]
+name = "Bedroom"
+weight = -23
+parent = "6410336"
+identifier = "bedroom"
+url = "c/home/6410336"
+
+[[menu.main]]
+name = "Kitchen"
+weight = -24
+parent = "6410336"
+identifier = "kitchen"
+url = "c/home/6410336"
+
+#SEASONAL
+[[menu.main]]
+name = "Seasonal"
+weight = -30
+identifier = "85595586"
+url = "/c/seasonal/85595586"
+
+[[menu.main]]
+name = "Featured"
+weight = -31
+parent = "85595586"
+identifier = "featured_c"
+url = "c/seasonal/85595586"
+
+[[menu.main]]
+name = "Gardening"
+weight = -32
+parent = "85595586"
+identifier = "gardening"
+url = "c/seasonal/85595586"
+
+[[menu.main]]
+name = "Outdoor living"
+weight = -33
+parent = "85595586"
+identifier = "outdoor_living"
+url = "c/seasonal/85595586"
+
+[[menu.main]]
+name = "Dining Entertaining"
+weight = -34
+parent = "85595586"
+identifier = "dining_entertaining"
+url = "c/seasonal/85595586"
+
+#GIFTING
+[[menu.main]]
+name = "Gifting"
+weight = -40
+identifier = "6410338"
+url = "/c/wedding/6410338"
+
+[[menu.main]]
+name = "Featured"
+weight = -41
+parent = "6410338"
+identifier = "featured_d"
+url = "c/wedding/6410338"
+
+[[menu.main]]
+name = "For Him"
+weight = -42
+parent = "6410338"
+identifier = "for_him"
+url = "c/wedding/6410338"
+
+[[menu.main]]
+name = "For Her"
+weight = -43
+parent = "6410338"
+identifier = "for_her"
+url = "c/wedding/6410338"
+
+[[menu.main]]
+name = "Popular Gifts"
+weight = -44
+parent = "6410338"
+identifier = "popular_gifts"
+url = "c/wedding/6410338"
